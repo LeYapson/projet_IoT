@@ -65,7 +65,7 @@ Il répond à la problématique suivante :
 | **Dimensions**          | 15x15x15 cm (max)                                                  |
 | **Poids**               | ~500-700 g (selon batterie)                                        |
 | **Vitesse maximale**    | ~10-15 km/h (selon réglages)                                       |
-| **Autonomie**           | ~30-45 min (batterie LiPo 3S 2200mAh)                              |
+| **Autonomie**           | ~45-1h min (batterie LiPo 3S 2500mAh)                              |
 | **Charges déplaçables** | Jusqu’à 200 g (selon adhérence des roues)                          |
 | **Alimentation**        | Batterie LiPo 3S (11.1V) + Buck Converter (9V) + Régulateur 5V. |
 
