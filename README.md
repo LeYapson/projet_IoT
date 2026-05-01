@@ -37,7 +37,7 @@ Il répond à la problématique suivante :
 ### **Profils ayant travaillé sur le projet**
 
 - **Théau Yapi** : Chef de projet, développement logiciel (C++/MicroPython), intégration matérielle.
--**Yuri Douguet**: développement logiciel (C++/MicroPython), intégration matérielle, conception 3D.
+- **Yuri Douguet**: développement logiciel (C++/MicroPython), intégration matérielle, conception 3D.
 - **Superviseur** : Anthony Orquin (Montpellier YNOV Campus).
 
 ---
