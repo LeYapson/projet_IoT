@@ -143,11 +143,10 @@ Il répond à la problématique suivante :
 | **DRV8833 IN2**    | GPIO25           | Contrôle direction Moteur A | Complémentaire à IN1.                            |
 | **DRV8833 IN3**    | GPIO33           | Contrôle direction Moteur B | Permet d’inverser le sens de rotation.           |
 | **DRV8833 IN4**    | GPIO32           | Contrôle direction Moteur B | Complémentaire à IN3.                            |
-| **Matrice LED**    | GPIO22           | Données (DIN)               | Transmet les signaux pour les animations.        |
 | **OLED SDA**       | GPIO21           | I2C Data                    | Communication avec l’écran.                      |
 | **OLED SCL**       | GPIO22           | I2C Clock                   | Synchronisation I2C.                             |
 | **Buck Converter** | 5V               | Alimentation                | Convertit 11.1V (LiPo) en 9V pour le DRV8833. |
-| **Régulateur 5V**  | 5V               | Alimentation                | Alimente l’ESP32 et les écrans OLED.              |
+| **Buck Converter**  | 5V               | Alimentation                | Convertit 11.1V (LiPo) en 5V pour alimenter l’ESP32 et les écrans OLED.              |
 
 
 > 📌 **Remarque** :
